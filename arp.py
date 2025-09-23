@@ -1,4 +1,4 @@
-a = int(input("enter the first number: "))
+a = int(input("enteer the first number: "))
 b = int(input("enter the second number: "))
 print("addittion:", a + b)
 print("substraction:", a-b)
